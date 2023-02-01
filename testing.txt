@@ -1,22 +1,2 @@
-testing
-is 
-going 
-on
-BV
-
-Testing
-is going on
-NY
-Push operation
-adding date0509
-
-
-Copy paste
-
-done
-
-push operation perfromed from QTM side
-jiraaaaaaaaaaaaaaaaaaaaaaa
-Testing20
-Hello world
-QTM
+A while back I needed to count the amount of letters that a piece of text in an email template had (to avoid passing any character limits). 
+Unfortunately, I could not think of a quick way to do so on my macbook and I therefore turned to the Internet.

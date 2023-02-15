@@ -2,3 +2,4 @@ A while back I needed to count the amount of letters that a piece of text in an 
 Unfortunately, I could not think of a quick way to do so on my macbook and I therefore turned to the Internet.
 Testing World
 Hello world
+Testing from jira side

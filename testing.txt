@@ -12,3 +12,4 @@ Pushing data from QTM and checking from it from Jira
 Super testing
 QTM test
 Github summit
+ny 0502
